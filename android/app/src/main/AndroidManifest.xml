@@ -4,7 +4,7 @@
         android:label="HouseTrack"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyAdpzi89sqrvuqh3KMWly8yvb7VRB2rxIk"/>
+           android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
